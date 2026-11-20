@@ -79,6 +79,15 @@ Titel mit Handlung und Frist («Inaktive Tickets bis 24. August 2026 bereinigen�
 - Eingebürgerte Anglizismen sind ok (E-Mail, Controlling, Smartphone, Hardware, Software, WLAN, Login); andere ersetzen (Eyecatcher → Hingucker, Draft → Entwurf).
 - Abkürzungen beim ersten Mal ausschreiben.
 
+## Hilfsmittel: Terminologie
+
+Rechts-, Verwaltungs- und Fachbegriffe richtig und einheitlich zu schreiben, ist Teil von «klar». Offizielle Termini haben Vorrang vor eigenen Wortschöpfungen.
+
+- **LINGUA-PC** (Terminologiedatenbank des Kantons Bern): bernische Rechts- und Verwaltungstermini auf Deutsch und Französisch. Zuerst hier prüfen, wenn der Begriff den Kanton Bern betrifft. https://wwwin.termino.sta.be.ch/linguapcweb/
+- **TERMDAT** (Terminologiedatenbank der Bundesverwaltung): Schweizer Termini aus den verschiedensten Fachbereichen. Hier prüfen, wenn der Begriff bundesweit oder fachübergreifend gebraucht wird. https://www.termdat.bk.admin.ch/Search/Search
+
+LINGUA-PC liegt im Netz des Kantons und ist aus Claude heraus meist nicht erreichbar. Schlage deshalb nichts «aus dem Gedächtnis» als amtlichen Terminus nach. Liste stattdessen unsichere Begriffe bei den offenen Punkten auf («in LINGUA-PC/TERMDAT prüfen») und verwende bis zur Prüfung den gängigen Begriff. Bei zweisprachigen Texten die französischen Entsprechungen ebenfalls dort prüfen.
+
 ## Gendergerechte Sprache
 
 - **Standard ist die Sie-Form**, auch intern. Du nur, wenn der Auftraggeber es ausdrücklich will oder der Kanal es klar vorgibt. Genderinklusive Sprache gilt immer.
@@ -95,6 +104,7 @@ Titel mit Handlung und Frist («Inaktive Tickets bis 24. August 2026 bereinigen�
 - [ ] Aktiv, positiv, Verben statt Nomen, Sätze meist unter 15 Wörtern?
 - [ ] Ton gemäss Brand Voice und konsistent (Sie-Form, gendergerecht)?
 - [ ] Schweizer Schreibweise eingehalten, Linktexte aussagekräftig?
+- [ ] Rechts- und Verwaltungsbegriffe geprüft (LINGUA-PC, TERMDAT) oder als «zu prüfen» markiert?
 - [ ] Keine erfundenen Fakten; offene Punkte benannt?
 
 ## Ausgabeschema
